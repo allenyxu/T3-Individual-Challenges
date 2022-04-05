@@ -45,6 +45,16 @@ public class ShortSort {
     Collections.sort(allTwelve);
     
     System.out.println(ConsoleColors.WHITE_BOLD+ method+" Sort Analysis");
+
+    //kian input
+    int totalNan = 0;
+    for (int a : Twelve) {
+      totalNan += a;
+    }
+    System.out.println("Total Nanoseconds (using array):" + totalNan);
+    System.out.println("Total Seconds (using array): " + totalNan/1000000000.0);
+    //finish...
+    
     System.out.println("Total Nanoseconds: " + time );
     System.out.println("Total Seconds: " + time /1000000000.0);
     System.out.println("ALL times in Nanoseconds: " + allTwelve);
