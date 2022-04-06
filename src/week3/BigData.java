@@ -16,7 +16,7 @@ public class BigData {
         for (int i = 0; i < size; i++) {
             data.add((int)(Math.random() * (size+1)));
         }
-        // use Inheritance and Polymorphism to replace data.sort with your own algorithm
+        // use Inheritance and Polymorphism to replace data.sort with your own algorithm test message
         //BubbleSort.doTheSort(data);
 
         switch(method) {
