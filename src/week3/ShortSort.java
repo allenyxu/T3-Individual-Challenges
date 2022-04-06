@@ -48,7 +48,7 @@ public class ShortSort {
 
     //kian input
     int totalNan = 0;
-    for (int a : Twelve) {
+    for (int a : allTwelve) {
       totalNan += a;
     }
     System.out.println("Total Nanoseconds (using array):" + totalNan);
