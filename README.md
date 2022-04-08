@@ -2,7 +2,7 @@
 # Allen_Individual_Tri3 test
 
 ## Github Pages Link
-[Allen Github Page](https://purplebears321.github.io/Allen-Individual-Tri3/Repl)
+[Allen Github Page](https://allenyxu.github.io/T3-Individual-Challenges/)
 ## Replit Link
 [Allen Individual Repl](https://replit.com/@purplebears321/allenTT0#README.md)
 ## Review Tickets
