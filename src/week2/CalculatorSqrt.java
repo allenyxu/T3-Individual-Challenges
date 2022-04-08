@@ -41,7 +41,7 @@ public class CalculatorSqrt {
       // Helper definition for supported operators
     private final Map<String, Integer> OPERATORS = new HashMap<>();
     {
-        // Map<"token", precedence>
+        // SQRT is assigned 2 bc it is in same prirority as that of power (PEMDAS)
         OPERATORS.put ("sqrt" , 2);
     }
   
