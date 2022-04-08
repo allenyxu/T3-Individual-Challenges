@@ -10,15 +10,16 @@
 >- Insertion sort compares backwards, puttting smaller terms in the front of the array each time
 
 ## Week 2 Learnings
-- Learned about RPN
->- Method of computing that is for computers
+- In the week 2 challenge a key learning I had was about RPN
+>- I learned that this was a method of computing that is for computers
 >- Was used a while back as a form of calculating, but has now evolved to be more user friendly
-- Learned about "splitting" which tokenizes each element of a list
+- I also learned about "splitting" which tokenizes each element of a list
 >- Makes performing the calculator function that was inputted as a string possible
->- **PBL:** Can be implemented to PBL as well since the user input is a string, so if I want to perform a sort of algorithm with the input I can use this split function
+>- **PBL Connection:** Can be implemented to PBL as well since the user input is a string, so if I want to perform a sort of algorithm with the input I can use this split function
 
 ## Week 1 Learnings
-- Learned about Linked Lists, a form of arrays
+- Week 1 I learned about Linked Lists, a form of arrays
 >- Linked lists work by linking the previous and the next element of an array together
-- Learned about adding and deleting from a queue
+- I also learned about the importance of and methods to adding and deleting from a queue
 >- pull() and add() are forms of altering a queue and changing the elements
+>- Allows you to modify output and create patterns or sort for specific data
